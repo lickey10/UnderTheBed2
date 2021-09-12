@@ -140,10 +140,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 679, y: 498}
-  m_MaxSize: {x: 14002, y: 14048}
+  m_MinSize: {x: 683, y: 498}
+  m_MaxSize: {x: 14004, y: 14048}
   vertical: 0
-  controlID: 80
+  controlID: 103
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,10 +165,10 @@ MonoBehaviour:
     y: 0
     width: 1460
     height: 947
-  m_MinSize: {x: 404, y: 498}
+  m_MinSize: {x: 406, y: 498}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 81
+  controlID: 104
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -190,10 +190,10 @@ MonoBehaviour:
     y: 0
     width: 1460
     height: 652
-  m_MinSize: {x: 404, y: 224}
-  m_MaxSize: {x: 8004, y: 4024}
+  m_MinSize: {x: 406, y: 224}
+  m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 82
+  controlID: 85
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -213,8 +213,8 @@ MonoBehaviour:
     y: 0
     width: 301
     height: 652
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 224}
+  m_MaxSize: {x: 4002, y: 4024}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -266,8 +266,8 @@ MonoBehaviour:
     y: 0
     width: 460
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 74}
+  m_MaxSize: {x: 4002, y: 4024}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -538,10 +538,10 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 105}
-      m_SelectedIDs: 74340100
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 14450000
       m_LastClickedID: 0
-      m_ExpandedIDs: b28effff58f9ffff08faffffccfbffff5c800000
+      m_ExpandedIDs: 9cf9ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -672,7 +672,7 @@ MonoBehaviour:
     height: 275
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
-    m_NameFilter: 
+    m_NameFilter: magnet
     m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
@@ -683,20 +683,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/FurBall2D_mobile/Animations
+    - Assets/2DGamekit
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/FurBall2D_mobile/Animations
+  - Assets/2DGamekit
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: D:\utilities\Programming\Unity\Projects\trunk\UnderTheBed2\UnderTheBed2
+  m_LastProjectPath: D:\utilities\Programming\Unity\Repos\UnderTheBed2\UnderTheBed2
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 1555.9854}
-    m_SelectedIDs: b4750000
-    m_LastClickedID: 30132
-    m_ExpandedIDs: 00000000c8320000623800000c3c0000423d0000f8420000be460000e8480000584a0000c44b0000244f0000e6500000a6550000fa56000068590000c0590000946300000c6400004c680000f4680000606a0000aa6e0000c26e0000ba7000005a710000fa710000a8720000c2740000d6750000b2760000c27b000000ca9a3b
+    scrollPos: {x: 0, y: 95}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 000000001e34000080340000c23d0000f83e0000ae440000744800009e4a00000e4c00007a4d0000da5000009c5200005c570000b05800001e5b0000765b00004a650000c2650000026a0000aa6a0000166c000060700000787000007072000010730000b07300005e740000787600008c77000068780000787d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -724,7 +724,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000c8320000623800000c3c0000423d0000f8420000be460000584a0000c44b0000244f0000e6500000a6550000fa56000068590000946300000c6400004c680000606a0000aa6e0000c26e00005a710000fa710000a8720000c2740000d6750000c27b0000
+    m_ExpandedIDs: 000000001e34000080340000c23d0000f83e0000ae440000744800009e4a00000e4c00007a4d0000da5000009c5200005c570000b05800001e5b0000765b00004a650000c2650000026a0000aa6a0000166c000060700000787000007072000010730000b07300005e740000787600008c77000068780000787d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -776,7 +776,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 41}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 16
   m_DirectoriesAreaWidth: 262
 --- !u!114 &18
